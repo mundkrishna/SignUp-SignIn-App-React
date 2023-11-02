@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SignUp-SignIn-App-React/static/css/main.6ccd65a8.css",
+    "main.js": "/SignUp-SignIn-App-React/static/js/main.9bc0dad7.js",
+    "index.html": "/SignUp-SignIn-App-React/index.html",
+    "main.6ccd65a8.css.map": "/SignUp-SignIn-App-React/static/css/main.6ccd65a8.css.map",
+    "main.9bc0dad7.js.map": "/SignUp-SignIn-App-React/static/js/main.9bc0dad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.9bc0dad7.js"
+  ]
+}
